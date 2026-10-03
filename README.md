@@ -2,13 +2,16 @@
 
 > **Read-only archive of released versions of witype/flarum-ext-customfooter.** Not for installation: use [Packagist](https://packagist.org/packages/witype/flarum-ext-customfooter) or the [upstream repository](https://github.com/Witype/flarum-ext-customfooter).
 
-**0** versions archived · Latest: [`v0.1.0-beta4`](https://github.com/flarchive/witype-flarum-ext-customfooter/tree/archive/v0.1.0-beta4) · License: `MIT` · Flarum: `^0.1.0-beta.5`
+**4** versions archived · Latest: [`v0.1.0-beta4`](https://github.com/flarchive/witype-flarum-ext-customfooter/tree/archive/v0.1.0-beta4) · License: `MIT` · Flarum: `^0.1.0-beta.5`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v0.1.0-beta` | 2016-05-20 | `^0.1.0-beta.5` | [Browse](https://github.com/flarchive/witype-flarum-ext-customfooter/tree/archive/v0.1.0-beta) |
+| `v0.1.0-beta2` | 2016-05-20 | `^0.1.0-beta.5` | [Browse](https://github.com/flarchive/witype-flarum-ext-customfooter/tree/archive/v0.1.0-beta2) |
+| `v0.1.0-beta3` | 2016-05-20 | `^0.1.0-beta.5` | [Browse](https://github.com/flarchive/witype-flarum-ext-customfooter/tree/archive/v0.1.0-beta3) |
+| `v0.1.0-beta4` | 2016-05-20 | `^0.1.0-beta.5` | [Browse](https://github.com/flarchive/witype-flarum-ext-customfooter/tree/archive/v0.1.0-beta4) |
 
 Catalog entry: [packages/witype-flarum-ext-customfooter.json](https://github.com/flarchive/archive-index/blob/main/packages/witype-flarum-ext-customfooter.json)
 
